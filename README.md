@@ -34,6 +34,7 @@ This is a fully functional "To-Do List" web application built using HTML, CSS, a
     No additional setup or dependencies are required.
 
 >> Project live link:
+    https://to-do-app-shehanaz.netlify.app/
    
    
 
